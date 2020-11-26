@@ -1,2 +1,2 @@
 # spa-todo-localstorage
-just a little spa 
+SPA, to-do-list 
